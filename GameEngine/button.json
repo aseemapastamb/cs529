@@ -1,0 +1,19 @@
+{
+    "Type": "Button",
+    "Label": "Button",
+
+    "Transform": {
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "scaleX": 400.0,
+        "scaleY": 150.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Button.png",
+        "color": "Violet"
+    },
+
+    "Button": {}
+}

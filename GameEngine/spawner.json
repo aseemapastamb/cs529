@@ -1,0 +1,19 @@
+{
+    "Type": "Spawner",
+    "Label": "Spawner",
+
+    "Transform": {
+        "positionX": 0.0,
+        "positionY": 0.0
+    },
+
+    "Spawner": {
+        "enemy type 1": 0,
+        "enemy type 2": 0,
+        "pickup life": 0,
+        "pickup fastShooting": 0,
+        "pickup grenade": 0,
+        "pickup coin": 0,
+        "level": 0
+    }
+}

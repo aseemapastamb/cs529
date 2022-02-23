@@ -1,0 +1,22 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "YouWin",
+            "Sprite": {
+                "surface": "..\\Resources\\YouWin.bmp"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "MainMenuButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 400.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonMainMenu.png"
+            }
+        }
+    ]
+}

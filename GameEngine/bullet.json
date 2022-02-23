@@ -1,0 +1,21 @@
+{
+    "Type": "Bullet",
+    "Label": "Bullet",
+
+    "Transform": {
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "scaleX": 10.0,
+        "scaleY": 10.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Bullet.png",
+        "color": "Violet"
+    },
+
+    "Body": {
+        "speed": 1500.0
+    }
+}

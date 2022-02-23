@@ -1,0 +1,21 @@
+{
+    "Type": "Grenade",
+    "Label": "Grenade",
+
+    "Transform": {
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "scaleX": 30.0,
+        "scaleY": 30.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Grenade.png",
+        "color": "Violet"
+    },
+
+    "Body": {
+        "speed": 500.0
+    }
+}

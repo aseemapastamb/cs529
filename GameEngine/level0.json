@@ -1,0 +1,44 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "Background0",
+            "Sprite": {
+                "surface": "..\\Resources\\Level0.bmp"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "PlayButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 100.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonPlay.png"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "InstructionsButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 300.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonInstructions.png"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "QuitButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 500.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonQuit.png"
+            }
+        }
+    ]
+}

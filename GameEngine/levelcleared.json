@@ -1,0 +1,33 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "LevelCleared",
+            "Sprite": {
+                "surface": "..\\Resources\\LevelCleared.bmp"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "NextLevelButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 300.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonNextLevel.png"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "MainMenuButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 500.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonMainMenu.png"
+            }
+        }
+    ]
+}

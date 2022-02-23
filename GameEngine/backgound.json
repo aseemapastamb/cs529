@@ -1,0 +1,17 @@
+{
+    "Type": "Background",
+    "Label": "Background0",
+
+    "Transform": {
+        "positionX": 400.0,
+        "positionY": 300.0,
+        "scaleX": 800.0,
+        "scaleY": 600.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Level0.bmp",
+        "color": "Cyan"
+    }
+}

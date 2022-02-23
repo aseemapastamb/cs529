@@ -1,0 +1,33 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "GameOver",
+            "Sprite": {
+                "surface": "..\\Resources\\GameOver.bmp"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "RestartLevelButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 300.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonRestartLevel.png"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "MainMenuButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 500.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonMainMenu.png"
+            }
+        }
+    ]
+}

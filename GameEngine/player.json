@@ -1,0 +1,29 @@
+{
+    "Type": "Player",
+    "Label": "Player",
+
+    "Transform": {
+        "positionX": 400.0,
+        "positionY": 300.0,
+        "scaleX": 40.0,
+        "scaleY": 40.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Player.png",
+        "color": "Blue"
+    },
+
+    "Controller": {},
+
+    "Health": {
+        "health": 5,
+        "lives": 3
+    },
+
+    "Ammo": {
+        "bullets": 50,
+        "grenades": 3
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "Background1",
+            "Sprite": {
+                "surface": "..\\Resources\\Level1.bmp"
+            }
+        },
+        {
+            "Name": "player.json",
+            "Transform": {
+                "positionX": 100.0,
+                "positionY": 100.0
+            }
+        },
+        {
+            "Name": "spawner.json",
+            "Label": "Spawner2",
+            "Spawner": {
+                "enemy type 1": 2,
+                "enemy type 2": 4,
+                "pickup life": 2,
+                "pickup fastShooting": 1,
+                "pickup coin": 3,
+                "pickup grenade": 1,
+                "level": 2
+            }
+        }
+    ]
+}

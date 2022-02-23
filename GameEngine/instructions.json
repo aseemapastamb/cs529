@@ -1,0 +1,22 @@
+{
+    "Objects": [
+        {
+            "Name": "backgound.json",
+            "Label": "Background0",
+            "Sprite": {
+                "surface": "..\\Resources\\Instructions.bmp"
+            }
+        },
+        {
+            "Name": "button.json",
+            "Label": "MainMenuButton",
+            "Transform": {
+                "positionX": 400.0,
+                "positionY": 500.0
+            },
+            "Sprite": {
+                "surface": "..\\Resources\\ButtonMainMenu.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Type": "PickupLife",
+    "Label": "PickupLife",
+
+    "Transform": {
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "scaleX": 20.0,
+        "scaleY": 20.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\PickupLife.png",
+        "color": "Yellow"
+    },
+
+    "Body": {
+        "speed": 50.0
+    }
+}

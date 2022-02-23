@@ -1,0 +1,28 @@
+{
+    "Type": "Type1Enemy",
+    "Label": "Type1Enemy",
+
+    "Transform": {
+        "positionX": 200.0,
+        "positionY": 300.0,
+        "scaleX": 50.0,
+        "scaleY": 50.0,
+        "angle": 0.0
+    },
+
+    "Sprite": {
+        "surface": "..\\Resources\\Enemy1.png",
+        "color": "Red"
+    },
+
+    "Body": {
+        "speed": 100.0
+    },
+
+    "Health": {
+        "health": 3,
+        "lives": 1
+    },
+
+    "AI": {}
+}
