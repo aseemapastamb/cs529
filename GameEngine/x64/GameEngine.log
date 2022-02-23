@@ -1,0 +1,33 @@
+﻿  AI.cpp
+  Ammo.cpp
+  Body.cpp
+  Button.cpp
+  CollisionManager.cpp
+  Component.cpp
+  ComponentCreator.cpp
+  Controller.cpp
+  EventManager.cpp
+  FrameRateController.cpp
+  GameObject.cpp
+  GameObjectFactory.cpp
+  GameObjectManager.cpp
+  GameStateManager.cpp
+  Health.cpp
+  InputManager.cpp
+  Main.cpp
+  Mesh.cpp
+  Renderer.cpp
+  ResourceManager.cpp
+  Compiling...
+  Shader.cpp
+  Spawner.cpp
+  Sprite.cpp
+  Texture.cpp
+  Transform.cpp
+  UpDown.cpp
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1591 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameEngine.vcxproj -> C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-529\Week 14 (Dec 1, 2021)\finalproject\GameEngine\GameEngine.exe
